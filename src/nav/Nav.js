@@ -1,6 +1,6 @@
 import s from './Nav.module.css';
 
-function Nav() {
+export const Nav = () => {
     return (
         <div className={s.nav}>
             <a href="">HOME</a>
@@ -12,4 +12,3 @@ function Nav() {
     );
 }
 
-export default Nav;
