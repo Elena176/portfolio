@@ -3,13 +3,14 @@
     background-color: #bfc3f9;
 }
 
-.text {
-    width: 550px;
-    background-color: mistyrose;
-}
-
 .photo {
-width: 550px;
+    width: 500px;
     height: 309px;
     background-color: linen;
 }
+
+.text {
+    width: 500px;
+    background-color: mistyrose;
+}
+

@@ -1,12 +1,14 @@
 import './App.css';
 import {Header} from "./header/Header";
-import {AboutMe} from "./main/AboutMe";
+import {Main} from "./main/Main";
+import {ResumeContainer} from "./resumeContainer/ResumeContainer";
 
 function App() {
     return (
         <div className="App">
             <Header/>
-            <AboutMe/>
+            <Main/>
+            <ResumeContainer/>
         </div>
     );
 }
