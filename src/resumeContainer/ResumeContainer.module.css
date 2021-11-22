@@ -1,7 +1,8 @@
-.container {
+.resumeBlock {
     border: 1px solid;
     height: 100vh;
     background-color: #96d4f8;
-    display: flex;
-
+}
+.resumeContainer {
+    align-items: center;
 }
