@@ -5,9 +5,12 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: center;
+    margin: .8em .5em;
 }
 .icon {
     height: 60px;
     width: 60px;
     background-color: paleturquoise;
+    text-align: center;
 }
