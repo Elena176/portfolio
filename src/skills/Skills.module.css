@@ -3,15 +3,18 @@
     background-color: honeydew;
 }
 .skillsContainer {
+    display: flex;
     flex-direction: column;
     justify-content: flex-start;
 }
 
 .title {
+    padding: 10px 0;
     background-color: #5ce5e5;
 }
 
 .skills {
+    padding: 10px 0;
     border: 1px solid;
     width: 100%;
     display: flex;

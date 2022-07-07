@@ -5,7 +5,8 @@ export const Main = () => {
     return (
         <div className={s.mainBlock}>
             <div className={styleContainer.container}>
-                <div className={s.photo}>Photo</div>
+                <div className={s.photo}>Photo
+                    </div>
                 <div className={s.text}>
                     <span>Hi there !</span>
                     <h1>
