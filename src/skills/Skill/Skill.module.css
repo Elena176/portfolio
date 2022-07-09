@@ -1,12 +1,13 @@
 .skill {
     border: 1px solid;
-    width: 250px;
+    width: 200px;
+    height: 200px;
     background-color: #6eb4e3;
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
-    margin: .8em .5em;
+    margin: .8em 1em;
 }
 .icon {
     height: 60px;
