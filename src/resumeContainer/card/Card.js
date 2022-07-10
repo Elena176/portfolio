@@ -4,7 +4,6 @@ export const Card = (props) => {
     console.log('span')
     return (
         <div>
-        <span className={s.bullet}></span>
             <div className={s.card}>
                 <div className={s.cardHeader}>
                     <span className={s.year}>{props.year}</span>

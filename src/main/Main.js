@@ -1,11 +1,12 @@
 import s from './Main.module.css';
 import styleContainer from './../common/styles/Container.module.css';
+import photo from '../common/image/photoForPortfolio.jpeg';
 
 export const Main = () => {
     return (
         <div className={s.mainBlock}>
             <div className={styleContainer.container}>
-                <div className={s.photo}>Photo
+                <div ><img src={photo} className={s.photo}/>
                     </div>
                 <div className={s.text}>
                     <span>Hi there !</span>
