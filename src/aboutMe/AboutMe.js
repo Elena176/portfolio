@@ -13,8 +13,8 @@ export const AboutMe = () => {
             Photo
                 </div>
                 <div className={s.info}>
-                    <li>Last Name</li>
-                    <li>First Name</li>
+                    <li>Olena</li>
+                    <li>Tokarieva</li>
                    {/* <li></li>
                     <li></li>*/}
                 </div>
