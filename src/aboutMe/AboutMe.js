@@ -15,8 +15,7 @@ export const AboutMe = () => {
                 <div className={s.info}>
                     <li>Olena</li>
                     <li>Tokarieva</li>
-                   {/* <li></li>
-                    <li></li>*/}
+                    <li>Odessa</li>
                 </div>
             </div>
         </div>
