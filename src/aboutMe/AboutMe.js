@@ -17,6 +17,7 @@ export const AboutMe = () => {
                     <li>Tokarieva</li>
                     <li>Odessa</li>
                     <li>Ukraine</li>
+                    <li>Poland</li>
                 </div>
             </div>
         </div>
